@@ -83,8 +83,3 @@ Saat playback, masukkan nilai `SPEED_MULT`:
 - Cek file `recordings/rekaman_bot.json`.
 
 ---
-
-Kalau mau, aku bisa tambahkan:
-- log ke file,
-- filter gerakan kecil agar lebih halus,
-- atau GUI sederhana untuk start/stop. 
